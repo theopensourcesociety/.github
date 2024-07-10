@@ -1,4 +1,4 @@
-![TOSS](,,/TOSS.png)
+![TOSS](TOSS.png)
 
 # The Open Source Society
 
